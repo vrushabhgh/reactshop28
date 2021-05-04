@@ -11,16 +11,16 @@ export default function Navbar(){
             <div class="collapse navbar-collapse" id="navbarsExample07">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" >Home <span class="sr-only">(current)</span></a>
+                        <h3 class="nav-link" >Home <span class="sr-only">(current)</span></h3>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" >about</a>
+                        <h3 class="nav-link" >about</h3>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link " >service</a>
+                        <h3 class="nav-link " >service</h3>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link " >contact</a>
+                        <h3 class="nav-link " >contact</h3>
                     </li>
                 </ul>
             </div>
