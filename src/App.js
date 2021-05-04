@@ -94,7 +94,7 @@ function App() {
               <div class="list-group">
                {
                  cart.map((item)=>{
-                   return <div className="list-group-item"> {item. description} - {item.price}
+                   return<div className="list-group-item">{item. description}-{item.price}
                    
                    <span className="btn btn-primary" onClick={()=>{
                       removecart(item)
